@@ -1,0 +1,47 @@
+{
+  "fase_a": {
+    "promedio_grupo": 6.8,
+    "aprueba": [
+      "María Martínez",
+      "Sofía Torres",
+      "Ana García",
+      "Laura Sánchez",
+      "Valentina Cruz",
+      "Andrés Morales",
+      "Carlos López"
+    ],
+    "no_aprueba": [
+      "Pedro Ramírez",
+      "Juan Hernández",
+      "Miguel Flores"
+    ],
+    "total": 10
+  },
+  "fase_b": {
+    "filas": 32,
+    "anio": "2020 (Censo INEGI)",
+    "transicion_paso": "B7: write_file a filesystem tras cerrar browser Playwright (B6)"
+  },
+  "fase_c": {
+    "allowed_dirs": "Allowed directories:\nC:\\Users\\eutiz\\Downloads\\practica1_mcp",
+    "error_win_ini": "Access denied - path outside allowed directories: C:\\Windows\\win.ini not in C:\\Users\\eutiz\\Downloads\\practica1_mcp",
+    "error_parent": "Access denied - path outside allowed directories: C:\\Users\\eutiz\\Downloads not in C:\\Users\\eutiz\\Downloads\\practica1_mcp"
+  },
+  "fase_d": {
+    "tools": [
+      "create_entities",
+      "create_relations",
+      "add_observations",
+      "delete_entities",
+      "delete_observations",
+      "delete_relations",
+      "read_graph",
+      "search_nodes",
+      "open_nodes"
+    ],
+    "entidad": "Practica 1 MCP",
+    "tipo": "Proyecto Academico",
+    "estado": "Completado",
+    "entidades_en_grafo": 1
+  }
+}
