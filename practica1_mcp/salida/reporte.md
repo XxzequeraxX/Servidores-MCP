@@ -1,5 +1,5 @@
 # Reporte de Calificaciones — Practica 1 MCP
-> Generado automaticamente el 17/11/2026 01:09:32
+> Generado automaticamente el 17/11/2026 03:41:51
 
 ## Tabla de Resultados (ordenada de mayor a menor promedio)
 
